@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\bin\Debug\ÇiftSayıYazdırma.exe.config
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\bin\Debug\ÇiftSayıYazdırma.exe
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\bin\Debug\ÇiftSayıYazdırma.pdb
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.Form1.resources
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.Properties.Resources.resources
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.exe
+C:\Users\User\Desktop\C#\ÇiftSayıYazdırma\ÇiftSayıYazdırma\obj\Debug\ÇiftSayıYazdırma.pdb
